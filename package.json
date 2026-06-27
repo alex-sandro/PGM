@@ -1,0 +1,23 @@
+{
+  "name": "pgm",
+  "version": "1.0.0",
+  "description": "Programa de teste de Mensagens via Whatsapp",
+  "homepage": "https://github.com/alex-sandro/PGM#readme",
+  "bugs": {
+    "url": "https://github.com/alex-sandro/PGM/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-sandro/PGM.git"
+  },
+  "license": "ISC",
+  "author": "Alex Sandro",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
